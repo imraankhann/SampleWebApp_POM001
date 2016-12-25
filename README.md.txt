@@ -1,0 +1,1 @@
+Added working sample POM e-commerce web app (Page Object Model) framework
